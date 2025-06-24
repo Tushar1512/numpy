@@ -75,10 +75,24 @@ import numpy as np
 # print(ar)
 
 
-
-
-
-
+# Numpy Array with Random Numbers
+#
+#
+# 1. rand() , range 0 to 1
+# var = np.random.rand(4)
+# print(var)
+#
+# 2. randn() , range = close to zero , positive and negative
+# var1 = np.random.randn(1)
+# print(var1)
+#
+# 3. ranf()  range = [ 0.0 , 1.0 ]
+# var = np.random.ranf(2)
+# print(var)
+#
+# randint() generate a random num given range (min,max,total value)
+# var = np.random.randint(1,5,2)
+# print(var)
 
 
 
