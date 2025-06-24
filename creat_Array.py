@@ -39,6 +39,40 @@ import numpy as np
 
 
 
+# 1-D
+# ar_zero = np.zeros(4)
+# print(ar_zero)
+#
+#2-D
+# ar_zero1 = np.zeros((3,4))
+# print(ar_zero1)
+
+
+# 2. Array filled  with 1's
+#
+# ar1 = np.ones(3)
+# print(ar1)
+
+
+# 3. Array filled empty
+#
+# ar = np.empty(4)
+# print(ar)
+
+# 4. Range Array
+#
+# ar = np.arange(4)
+# print(ar)
+
+# 5. Array diagonal element filled wioth 1's
+#
+# ar = np.eye(5)
+# print(ar)
+
+# 6. Create an array with value that are spaced linearly in a specified interval
+
+# ar = np.linspace(0,10,num=2)
+# print(ar)
 
 
 
