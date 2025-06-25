@@ -5,8 +5,8 @@ import numpy as np
 # ----------------------1st Array == ( 1-D )-------------------------------------------------------
 
 # x=[1,2,3,4,5]
-# y = np.array(x) # type 1
-# y1 = np.array([1,2,3,4,5]) #type 2
+# y = np.array(x)                                                         # type 1
+# y1 = np.array([1,2,3,4,5])                                              #type 2
 #
 # print(y,y1)
 # print("",type(y),"\n",type(y1),"\n",type(x),"\n")
