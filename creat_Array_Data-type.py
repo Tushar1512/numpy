@@ -82,7 +82,7 @@ import numpy as np
 # var = np.random.rand(4)
 # print(var)
 #
-# 2. randn() , range = close to zero , positive and negative
+# 2. randn() , range = close to zero , positive and negative            #randn()
 # var1 = np.random.randn(1)
 # print(var1)
 #
