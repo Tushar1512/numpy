@@ -23,7 +23,9 @@ import numpy as np
 
 # ar2 = np.array([[1,2,3,4,5],[1,2,3,4,5]])
 # print(ar2)
-# print(ar2.ndim)
+# print(ar2.ndim)                                                        # give to type of array  ===== .ndim   |
+# print(ar2.shape)                                                       # give to shape of array ===== .shape  |
+# print(ar2.size)                                                        # give to size of array  ===== .size   |
 
 #----------------------------- 3nd Array == ( 3-D ) -----------------------------------------------
 
