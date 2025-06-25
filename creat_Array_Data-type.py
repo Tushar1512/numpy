@@ -90,7 +90,7 @@ import numpy as np
 # var = np.random.ranf(2)
 # print(var)
 #
-# randint() generate a random num given range (min,max,total value)
+# randint() generate a random num given range (min,max,total value)    #randint()
 # var = np.random.randint(1,5,2)
 # print(var)
 
