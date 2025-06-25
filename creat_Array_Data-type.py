@@ -42,7 +42,10 @@ import numpy as np
 # print(arn.ndim)
 
 
-
+#----------------------------create Array with numpy function-----------------------------------------------------------
+#
+# 1.Array filled with 0's
+#
 # 1-D
 # ar_zero = np.zeros(4)
 # print(ar_zero)
