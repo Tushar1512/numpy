@@ -86,7 +86,7 @@ import numpy as np
 # var1 = np.random.randn(1)
 # print(var1)
 #
-# 3. ranf()  range = [ 0.0 , 1.0 ]
+# 3. ranf()  range = [ 0.0 , 1.0 ]                                      #ranf()
 # var = np.random.ranf(2)
 # print(var)
 #
