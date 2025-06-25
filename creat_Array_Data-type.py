@@ -95,8 +95,32 @@ import numpy as np
 # print(var)
 
 
-
-
+#  Data-type  ( chack and change )
+#
+#
+# tushar = np.array([1,2,5,0])
+# print("Data type is :- ",tushar.dtype)        # how to check data type = .dtype()
+#
+# type - 0 (change to data type)
+# tushar = np.array([1,2,5,6,0],dtype=np.int8)  # how to change data type = dtyp = np.(data type)
+# print("Data type is :- ",tushar.dtype)
+#
+# type - 1 (change to data type)
+# t = np.array([1,3,85,],dtype ="f")            # data type change short hand method
+# print(t.dtype)
+#
+#
+# type - 2 (chang eto data type)
+# t = np.array([4.5,5.6,9.3])
+# tex = np.float32(t)                          # data type change short hand method
+# print(tex.dtype)
+#
+#
+# type -3 (change to  data type)
+# t= np.array([1,2,6,8])
+# tt = t.astype(float)
+# print(t,"their data type :-",t.dtype)
+# print(tt,"their data type :-",tt.dtype)
 
 
 
