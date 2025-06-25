@@ -78,7 +78,7 @@ import numpy as np
 # Numpy Array with Random Numbers
 #
 #
-# 1. rand() , range 0 to 1
+# 1. rand() , range 0 to 1                                              # rand()
 # var = np.random.rand(4)
 # print(var)
 #
