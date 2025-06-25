@@ -17,6 +17,7 @@ import numpy as np
 #     INT_1 = int(input("Enter a Number:-"))
 #     l.append(INT_1)
 # print(np.array(l))
+#
 # print(y.ndim,y1.ndim)
 
 #-------------------------------------------------- 2nd Array == ( 2-D ) -----------------------------------------------
